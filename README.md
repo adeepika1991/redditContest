@@ -15,9 +15,9 @@ Live app -> http://redditcontest.netlify.app [![Netlify Status](https://api.netl
 
 ## Features
 
-Responsive - ✔️
-Lazy Image Load - ✔️
-Search - ✔️
-Animation - ✔️
+1. Responsive - ✔️
+2. Lazy Image Load - ✔️
+3. Search - ✔️
+4. Animation - ✔️
 
 
