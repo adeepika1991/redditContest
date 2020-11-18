@@ -11,8 +11,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Hosted App
 
-Live app -> http://redditcontest.netlify.app
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7d874e25-0791-4a55-b96b-78e4fcd72949/deploy-status)](https://app.netlify.com/sites/shoptrade/deploys)
+Live app -> http://redditcontest.netlify.app [![Netlify Status](https://api.netlify.com/api/v1/badges/818f850a-2acb-48bd-b323-bf809536f57d/deploy-status)](https://app.netlify.com/sites/redditcontest/deploys)
 
 
