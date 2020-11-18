@@ -13,4 +13,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Live app -> http://redditcontest.netlify.app [![Netlify Status](https://api.netlify.com/api/v1/badges/818f850a-2acb-48bd-b323-bf809536f57d/deploy-status)](https://app.netlify.com/sites/redditcontest/deploys)
 
+## Features
+
+Responsive - ✔️
+Lazy Image Load - ✔️
+Search - ✔️
+Animation - ✔️
+
 
