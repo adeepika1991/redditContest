@@ -21,3 +21,11 @@ Live app -> http://redditcontest.netlify.app [![Netlify Status](https://api.netl
 4. Animation - ✔️
 
 
+## Demo Image - Rendered View
+
+<img src='public/snap1.JPG' raw=true alt='assignment demo 1'/>
+
+## Demo Image - Modal View
+
+<img src='public/snap2.JPG' raw=true alt='assignment demo'/>
+
